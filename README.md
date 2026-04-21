@@ -1,6 +1,6 @@
 # 🪐 ZENITH OS | THE PRODUCTIVITY ENGINE
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg)](https://zenith-os.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg)](https://zenithos.streamlit.app/)
 [![Supabase Powered](https://img.shields.io/badge/Backend-Supabase-3ECF8E?style=flat&logo=supabase)](https://supabase.com)
 [![Python Version](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
